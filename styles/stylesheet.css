@@ -1,0 +1,13 @@
+.header {
+  height: 100px;
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+
+h1 {
+  font-size: 48px;
+  background: rgb(133, 21, 21);
+}
